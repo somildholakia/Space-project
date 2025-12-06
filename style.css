@@ -1,0 +1,30 @@
+body {
+
+    color: white;
+    background-image: url("../LocalRepo/images/universe\ webp.gif");
+    background-size: cover;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.btn {
+    color: black;
+    font-size: 15px;
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    border: 0px;
+     font-family:inherit;
+}
+
+.cta {
+    border-bottom: 5px solid white;
+    border-radius: 5px;
+}
+
+#isro-image {
+    width: 90px;
+}
